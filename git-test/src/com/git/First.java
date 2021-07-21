@@ -5,6 +5,8 @@ public class First {
         int i=0;
         i+=10;
         System.out.println(i+" hello,git project");
+        //...
+        System.out.printf(i+" second");
     }
 
 }
